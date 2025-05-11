@@ -24,7 +24,3 @@ python ids_test.py
 sudo python ids.py
 
 
-graph TD
-    A[Packet Capture] --> B[Traffic Analyzer]
-    B --> C[Detection Engine]
-    C --> D[Alert System]
